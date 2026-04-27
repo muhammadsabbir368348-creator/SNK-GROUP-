@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SNK MULTIPLAYER GROUP</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="logo">SNK MULTIPLAYER</div>
+        <ul>
+            <li><a href="#home">হোম</a></li>
+            <li><a href="#members">মেম্বারস</a></li>
+            <li><a href="#rules">রুলস</a></li>
+            <li><a href="login.html" class="admin-link">এডমিন প্যানেল</a></li>
+        </ul>
+    </nav>
+
+    <header id="home">
+        <div class="hero-content">
+            <h1>SNK MULTIPLAYER GROUP</h1>
+            <p>সেরা গেমিং কমিউনিটি এবং মাল্টিপ্লেয়ার অভিজ্ঞতা।</p>
+            <button class="join-btn">আমাদের সাথে যোগ দিন</button>
+        </div>
+    </header>
+
+    <section id="rules">
+        <h2>গ্রুপের নিয়মাবলী</h2>
+        <div class="rules-container">
+            <div class="rule-card">অপ্রাসঙ্গিক মেসেজ নিষেধ</div>
+            <div class="rule-card">শিডিউল মেনে পোস্ট করুন</div>
+            <div class="rule-card">সবার প্রতি সম্মান প্রদর্শন</div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; ২০২৬ SNK MULTIPLAYER | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
